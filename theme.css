@@ -257,6 +257,7 @@ QComboBox QLineEdit {
   border: 0;
   margin-left:-4px;
   margin-top: -4px;
+  padding-left: 4px;
 }
 QComboBox:drop-down {
   subcontrol-origin: padding;
