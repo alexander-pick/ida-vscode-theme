@@ -474,7 +474,7 @@ CustomIDAMemo
     qproperty-line-fg-void-opnd: #d7ba7d;
     qproperty-line-fg-code-xref: #d4e91b;
     qproperty-line-fg-data-xref: #569cd6;
-    qproperty-line-fg-code-xref-to-tail: #e51400;
+    qproperty-line-fg-code-xref-to-tail: #550000;
     qproperty-line-fg-data-xref-to-tail: #b9b90c;
     qproperty-line-fg-error: #010101;
     qproperty-line-fg-line-prefix: #c0c0c0;
@@ -526,7 +526,7 @@ CustomIDAMemo
     qproperty-line-fg-patched-bytes: #804040;
     qproperty-line-fg-unsaved-changes: #ff8000;
     qproperty-line-bg-highlight: #28639b;
-    qproperty-line-bg-bpt-enabled: #e51400;
+    qproperty-line-bg-bpt-enabled: #550000;
     qproperty-line-bg-bpt-disabled: #019b10;
     qproperty-line-bg-bpt-unavailable: #ff8000;
 }
